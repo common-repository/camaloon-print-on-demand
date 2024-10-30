@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: nl\n"
+
+#: includes/templates/camaloon-home.php:10
+msgid "Camaloon logo"
+msgstr "Camaloon-logo"
+
+#: includes/templates/camaloon-home.php:13
+msgid "Connect"
+msgstr "Aansluiten"
+
+#: includes/templates/camaloon-home.php:16
+msgid "Status"
+msgstr "Toestand"
+
+#: includes/templates/camaloon-home.php:19
+msgid "Support"
+msgstr "Steun"
+
+#: includes/templates/faq.php:2
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: includes/templates/faq.php:3
+msgid "Getting started made easy. Read the FAQs to jumpstart your business."
+msgstr "Gemakkelijk aan de slag gaan. Lees de veelgestelde vragen om uw bedrijf een vliegende start te geven."
+
+#: includes/templates/faq.php:21
+msgid ""
+"Copy the box content below and add it to your support message. Note: this status report may not include an error log. Contact your "
+"hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Kopieer de inhoud van het onderstaande vak en voeg deze toe aan uw ondersteuningsbericht. Opmerking: dit statusrapport bevat mogelijk "
+"geen foutenlogboek. Neem contact op met uw hostingprovider als u hulp nodig heeft bij het verkrijgen van foutenlogboeken."
+
+#: includes/templates/faq.php:27
+msgid "Camaloon Checklist"
+msgstr "Camaloon-checklist"
+
+#: includes/templates/faq.php:38
+msgid "OK"
+msgstr "OK"
+
+#: includes/templates/faq.php:40
+msgid "WARNING"
+msgstr "WARNING"
+
+#: includes/templates/faq.php:42
+msgid "NOT CONNECTED"
+msgstr "NOT CONNECTED"
+
+#: includes/templates/faq.php:4
+msgid "FAIL"
+msgstr "FAIL"
+
+#: includes/templates/status.php:1
+msgid "System status"
+msgstr "Systeem status"
+
+#: includes/templates/status.php:3
+msgid ""
+"Review the status of your connection. Errors in the connection of your store setup may cause the Camaloon integration to not work as "
+"intended."
+msgstr ""
+"Controleer de status van uw verbinding. Fouten in de verbinding van uw winkelconfiguratie kunnen ertoe leiden dat de Camaloon-"
+"integratie niet werkt zoals bedoeld."
+
+#: includes/camaloon-functions.php:199
+msgid "WordPress Permalinks"
+msgstr "WordPress Permalinks"
+
+#: includes/camaloon-functions.php:200
+msgid ""
+"WooCommerce API will not work unless your permalinks in Settings > Permalinks are set up correctly. Make sure you that they are NOT "
+"set to \"plain\"."
+msgstr ""
+"WooCommerce API werkt niet tenzij uw permalinks in Instellingen > Permalinks correct zijn ingesteld. Zorg ervoor dat ze NIET zijn "
+"ingesteld op “plain”."
+
+#: includes/camaloon-functions.php:204
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: includes/camaloon-functions.php:205
+msgid "WordPress should always be updated to the latest version. Updates can be installed from your WordPress admin dashboard."
+msgstr ""
+"WordPress moet altijd worden bijgewerkt naar de nieuwste versie. Updates kunnen worden geïnstalleerd vanaf uw WordPress-"
+"beheerdersdashboard."
+
+#: includes/camaloon-functions.php:209
+msgid "WooCommerce Webhooks"
+msgstr "WooCommerce Webhooks"
+
+#: includes/camaloon-functions.php:210
+msgid "Camaloon requires WooCommerce webhooks to be set up to quickly capture your incoming orders, products updates etc."
+msgstr ""
+"Camaloon vereist dat WooCommerce-webhooks zijn ingesteld om snel binnenkomende bestellingen, productupdates enz. vast te leggen."
+
+#: includes/camaloon-functions.php:214
+msgid "Write permissions"
+msgstr "Schrijfrechten"
+
+#: includes/camaloon-functions.php:215
+msgid ""
+"Make the uploads directory writable. This is required for mockup generator product push to work correctly. Contact your hosting "
+"provider if you need help with this."
+msgstr ""
+"Maak de uploadmap beschrijfbaar. Dit is vereist om de push van het mockup-generatorproduct correct te laten werken. Neem contact op "
+"met je hostingprovider als je hierbij hulp nodig hebt."
+
+#: includes/camaloon-functions.php:219
+msgid "PHP memory limit"
+msgstr "PHP-geheugenlimiet"
+
+#: includes/camaloon-functions.php:220
+msgid "Set PHP allocated memory limit to at least 128mb. Contact your hosting provider if you need help with this."
+msgstr ""
+"Stel de door PHP toegewezen geheugenlimiet in op minimaal 128 MB. Neem contact op met je hostingprovider als je hierbij hulp nodig "
+"hebt."
+
+#: includes/camaloon-functions.php:224
+msgid "PHP script time limit"
+msgstr "Tijdslimiet voor PHP-script"
+
+#: includes/camaloon-functions.php:225
+msgid ""
+"Set PHP script execution time limit to at least 30 seconds. This is required to successfully push products with many variants. "
+"Contact your hosting provider if you need help with this."
+msgstr ""
+"Stel de uitvoeringstijd van het PHP-script in op ten minste 30 seconden. Dit is nodig om producten met veel varianten succesvol te "
+"pushen. Neem contact op met je hostingprovider als je hierbij hulp nodig hebt."
+
+#: includes/templates/connect.php:6
+msgid "The WooCommerce plugin is missing, we won’t be able to connect your Camaloon account."
+msgstr "De WooCommerce-plug-in ontbreekt, we kunnen uw Camaloon-account niet koppelen."
+
+#: includes/templates/connect.php:13
+msgid "There are errors with your store setup that may cause the Camaloon integration to not work as intended!"
+msgstr "Er zijn fouten in uw winkelconfiguratie die ertoe kunnen leiden dat de Camaloon-integratie niet werkt zoals bedoeld!"
+
+#: includes/templates/connect.php:14
+msgid "Check status"
+msgstr "Controleer de status"
+
+#: includes/templates/connect.php:22
+msgid "Your Camaloon plugin has been successfully installed!"
+msgstr "Je Camaloon-plug-in is succesvol geïnstalleerd!"
+
+#: includes/templates/connect.php:26
+msgid "Start selling! Create your first product!"
+msgstr "Begin met verkopen! Maak je eerste product!"
+
+#: includes/templates/connect.php:27
+msgid "Go to Camaloon store"
+msgstr "Ga naar Camaloon-winkel"
+
+#: includes/templates/connect.php:31
+msgid "Something wrong with your store?"
+msgstr "Is er iets mis met uw winkel?"
+
+#: includes/templates/connect.php:32
+msgid "Check store status"
+msgstr "Controleer de winkelstatus"
+
+#: includes/templates/connect.php:35
+msgid "Need help with your WooCommerce setup?"
+msgstr "Hulp nodig bij het instellen van WooCommerce?"
+
+#: includes/templates/connect.php:36
+msgid "Review our FAQs"
+msgstr "Bekijk onze veelgestelde vragen"
+
+#: includes/templates/connect.php:42
+msgid "Connect your WooCommerce to Camaloon!"
+msgstr "Verbind je WooCommerce met Camaloon!"
+
+#: includes/templates/connect.php:43
+msgid "Connect your store"
+msgstr "Verbind je winkel"
+
+#: includes/templates/faq.php:20
+msgid "Need support? Contact us."
+msgstr "Ondersteuning nodig? Neem contact op."
+
+#: includes/templates/faq.php:50
+msgid "Note: this status report may not include an error log. Contact your hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Opmerking: dit statusrapport bevat mogelijk geen foutenlogboek. Neem contact op met uw hostingprovider als u hulp nodig heeft bij het "
+"verkrijgen van foutenlogboeken."
+
+#: includes/templates/faq.php:54
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: includes/templates/connect.php:34
+msgid "Disconnect"
+msgstr "Loskoppelen"
+
+#: includes/camaloon-functions.php:259
+msgid "WooCommerce version"
+msgstr "WooCommerce version"
+
+#: includes/camaloon-functions.php:260
+msgid "Woocommerce should always be version 5.7.1 or later."
+msgstr "Woocommerce moet altijd versie 5.7.1 of hoger zijn."

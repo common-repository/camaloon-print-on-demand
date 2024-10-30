@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: sv\n"
+
+#: includes/templates/camaloon-home.php:10
+msgid "Camaloon logo"
+msgstr "Camaloon -logotyp"
+
+#: includes/templates/camaloon-home.php:13
+msgid "Connect"
+msgstr "Ansluta"
+
+#: includes/templates/camaloon-home.php:16
+msgid "Status"
+msgstr "Status"
+
+#: includes/templates/camaloon-home.php:19
+msgid "Support"
+msgstr "Stöd"
+
+#: includes/templates/faq.php:2
+msgid "Frequently Asked Questions"
+msgstr "Vanliga frågor"
+
+#: includes/templates/faq.php:3
+msgid "Getting started made easy. Read the FAQs to jumpstart your business."
+msgstr "Det är enkelt att komma igång. Läs vanliga frågor för att starta ditt företag."
+
+#: includes/templates/faq.php:21
+msgid ""
+"Copy the box content below and add it to your support message. Note: this status report may not include an error log. Contact your "
+"hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Kopiera rutans innehåll nedan och lägg till det i ditt supportmeddelande. Obs! Denna statusrapport kanske inte innehåller en fellogg. "
+"Kontakta din värdleverantör om du behöver hjälp med att skaffa felloggar."
+
+#: includes/templates/faq.php:27
+msgid "Camaloon Checklist"
+msgstr "Camaloon Checklista"
+
+#: includes/templates/faq.php:38
+msgid "OK"
+msgstr "OK"
+
+#: includes/templates/faq.php:40
+msgid "WARNING"
+msgstr "WARNING"
+
+#: includes/templates/faq.php:42
+msgid "NOT CONNECTED"
+msgstr "NOT CONNECTED"
+
+#: includes/templates/faq.php:4
+msgid "FAIL"
+msgstr "FAIL"
+
+#: includes/templates/status.php:1
+msgid "System status"
+msgstr "System status"
+
+#: includes/templates/status.php:3
+msgid ""
+"Review the status of your connection. Errors in the connection of your store setup may cause the Camaloon integration to not work as "
+"intended."
+msgstr ""
+"Granska statusen för din anslutning. Fel i anslutningen av din butiksinställning kan göra att Camaloon -integrationen inte fungerar "
+"som avsett."
+
+#: includes/camaloon-functions.php:199
+msgid "WordPress Permalinks"
+msgstr "WordPress Permalinks"
+
+#: includes/camaloon-functions.php:200
+msgid ""
+"WooCommerce API will not work unless your permalinks in Settings > Permalinks are set up correctly. Make sure you that they are NOT "
+"set to \"plain\"."
+msgstr ""
+"WooCommerce API fungerar inte om inte dina permalänkar i Inställningar> Permalänkar är korrekt inställda. Se till att de INTE är "
+"inställda på “vanligt”."
+
+#: includes/camaloon-functions.php:204
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: includes/camaloon-functions.php:205
+msgid "WordPress should always be updated to the latest version. Updates can be installed from your WordPress admin dashboard."
+msgstr ""
+"WordPress bör alltid uppdateras till den senaste versionen. Uppdateringar kan installeras från din WordPress admin -instrumentpanel."
+
+#: includes/camaloon-functions.php:209
+msgid "WooCommerce Webhooks"
+msgstr "WooCommerce Webhooks"
+
+#: includes/camaloon-functions.php:210
+msgid "Camaloon requires WooCommerce webhooks to be set up to quickly capture your incoming orders, products updates etc."
+msgstr "Camaloon kräver att WooCommerce webhooks konfigureras för att snabbt fånga inkommande beställningar, produktuppdateringar etc."
+
+#: includes/camaloon-functions.php:214
+msgid "Write permissions"
+msgstr "Skriv behörigheter"
+
+#: includes/camaloon-functions.php:215
+msgid ""
+"Make the uploads directory writable. This is required for mockup generator product push to work correctly. Contact your hosting "
+"provider if you need help with this."
+msgstr ""
+"Gör uppladdningskatalogen skrivbar. Detta krävs för att mockupgenerators produktknapp ska fungera korrekt. Kontakta din "
+"värdleverantör om du behöver hjälp med detta."
+
+#: includes/camaloon-functions.php:219
+msgid "PHP memory limit"
+msgstr "PHP -minnesgräns"
+
+#: includes/camaloon-functions.php:220
+msgid "Set PHP allocated memory limit to at least 128mb. Contact your hosting provider if you need help with this."
+msgstr "Ställ in PHP -tilldelad minnesgräns på minst 128 MB. Kontakta din värdleverantör om du behöver hjälp med detta."
+
+#: includes/camaloon-functions.php:224
+msgid "PHP script time limit"
+msgstr "Tidsbegränsning för PHP -skript"
+
+#: includes/camaloon-functions.php:225
+msgid ""
+"Set PHP script execution time limit to at least 30 seconds. This is required to successfully push products with many variants. "
+"Contact your hosting provider if you need help with this."
+msgstr ""
+"Ställ in tidsgräns för körning av PHP -skript till minst 30 sekunder. Detta krävs för att framgångsrikt driva produkter med många "
+"varianter. Kontakta din värdleverantör om du behöver hjälp med detta."
+
+#: includes/templates/connect.php:6
+msgid "The WooCommerce plugin is missing, we won’t be able to connect your Camaloon account."
+msgstr "WooCommerce -pluginet saknas, vi kommer inte att kunna ansluta ditt Camaloon -konto."
+
+#: includes/templates/connect.php:13
+msgid "There are errors with your store setup that may cause the Camaloon integration to not work as intended!"
+msgstr "Det finns fel med din butiksinställning som kan göra att Camaloon -integrationen inte fungerar som avsett!"
+
+#: includes/templates/connect.php:14
+msgid "Check status"
+msgstr "Kolla statusen"
+
+#: includes/templates/connect.php:22
+msgid "Your Camaloon plugin has been successfully installed!"
+msgstr "Ditt Camaloon -plugin har installerats!"
+
+#: includes/templates/connect.php:26
+msgid "Start selling! Create your first product!"
+msgstr "Börja sälja! Skapa din första produkt!"
+
+#: includes/templates/connect.php:27
+msgid "Go to Camaloon store"
+msgstr "Gå till Camaloon -butiken"
+
+#: includes/templates/connect.php:31
+msgid "Something wrong with your store?"
+msgstr "Är det något fel på din butik?"
+
+#: includes/templates/connect.php:32
+msgid "Check store status"
+msgstr "Kontrollera butikens status"
+
+#: includes/templates/connect.php:35
+msgid "Need help with your WooCommerce setup?"
+msgstr "Behöver du hjälp med din WooCommerce -installation?"
+
+#: includes/templates/connect.php:36
+msgid "Review our FAQs"
+msgstr "Läs våra vanliga frågor"
+
+#: includes/templates/connect.php:42
+msgid "Connect your WooCommerce to Camaloon!"
+msgstr "Anslut din WooCommerce till Camaloon!"
+
+#: includes/templates/connect.php:43
+msgid "Connect your store"
+msgstr "Anslut din butik"
+
+#: includes/templates/faq.php:20
+msgid "Need support? Contact us."
+msgstr "Behöver du stöd? Kontakta oss."
+
+#: includes/templates/faq.php:50
+msgid "Note: this status report may not include an error log. Contact your hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Obs! Denna statusrapport kanske inte innehåller en fellogg. Kontakta din värdleverantör om du behöver hjälp med att skaffa felloggar."
+
+#: includes/templates/faq.php:54
+msgid "Copy"
+msgstr "Kopiera"
+
+#: includes/templates/connect.php:34
+msgid "Disconnect"
+msgstr "Koppla ifrån"
+
+#: includes/camaloon-functions.php:259
+msgid "WooCommerce version"
+msgstr "WooCommerce version"
+
+#: includes/camaloon-functions.php:260
+msgid "Woocommerce should always be version 5.7.1 or later."
+msgstr "Woocommerce bör alltid vara version 5.7.1 eller senare."

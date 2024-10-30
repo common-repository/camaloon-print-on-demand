@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+
+#: includes/templates/camaloon-home.php:10
+msgid "Camaloon logo"
+msgstr "Camaloon logo"
+
+#: includes/templates/camaloon-home.php:13
+msgid "Connect"
+msgstr "Connect"
+
+#: includes/templates/camaloon-home.php:16
+msgid "Status"
+msgstr "Status"
+
+#: includes/templates/camaloon-home.php:19
+msgid "Support"
+msgstr "Support"
+
+#: includes/templates/faq.php:2
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: includes/templates/faq.php:3
+msgid "Getting started made easy. Read the FAQs to jumpstart your business."
+msgstr "Getting started made easy. Read the FAQs to jumpstart your business."
+
+#: includes/templates/faq.php:21
+msgid ""
+"Copy the box content below and add it to your support message. Note: this status report may not include an error log. Contact your "
+"hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Copy the box content below and add it to your support message. Note: this status report may not include an error log. Contact your "
+"hosting provider if you need help with acquiring error logs."
+
+#: includes/templates/faq.php:27
+msgid "Camaloon Checklist"
+msgstr "Camaloon Checklist"
+
+#: includes/templates/faq.php:38
+msgid "OK"
+msgstr "OK"
+
+#: includes/templates/faq.php:40
+msgid "WARNING"
+msgstr "WARNING"
+
+#: includes/templates/faq.php:42
+msgid "NOT CONNECTED"
+msgstr "NOT CONNECTED"
+
+#: includes/templates/faq.php:4
+msgid "FAIL"
+msgstr "FAIL"
+
+#: includes/templates/status.php:1
+msgid "System status"
+msgstr "System status"
+
+#: includes/templates/status.php:3
+msgid ""
+"Review the status of your connection. Errors in the connection of your store setup may cause the Camaloon integration to not work as "
+"intended."
+msgstr ""
+"Review the status of your connection. Errors in the connection of your store setup may cause the Camaloon integration to not work as "
+"intended."
+
+#: includes/camaloon-functions.php:199
+msgid "WordPress Permalinks"
+msgstr "WordPress Permalinks"
+
+#: includes/camaloon-functions.php:200
+msgid ""
+"WooCommerce API will not work unless your permalinks in Settings > Permalinks are set up correctly. Make sure you that they are NOT "
+"set to \"plain\"."
+msgstr ""
+"WooCommerce API will not work unless your permalinks in Settings > Permalinks are set up correctly. Make sure you that they are NOT "
+"set to “plain”."
+
+#: includes/camaloon-functions.php:204
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: includes/camaloon-functions.php:205
+msgid "WordPress should always be updated to the latest version. Updates can be installed from your WordPress admin dashboard."
+msgstr "WordPress should always be updated to the latest version. Updates can be installed from your WordPress admin dashboard."
+
+#: includes/camaloon-functions.php:209
+msgid "WooCommerce Webhooks"
+msgstr "WooCommerce Webhooks"
+
+#: includes/camaloon-functions.php:210
+msgid "Camaloon requires WooCommerce webhooks to be set up to quickly capture your incoming orders, products updates etc."
+msgstr "Camaloon requires WooCommerce webhooks to be set up to quickly capture your incoming orders, products updates etc."
+
+#: includes/camaloon-functions.php:214
+msgid "Write permissions"
+msgstr "Write permissions"
+
+#: includes/camaloon-functions.php:215
+msgid ""
+"Make the uploads directory writable. This is required for mockup generator product push to work correctly. Contact your hosting "
+"provider if you need help with this."
+msgstr ""
+"Make the uploads directory writable. This is required for mockup generator product push to work correctly. Contact your hosting "
+"provider if you need help with this."
+
+#: includes/camaloon-functions.php:219
+msgid "PHP memory limit"
+msgstr "PHP memory limit"
+
+#: includes/camaloon-functions.php:220
+msgid "Set PHP allocated memory limit to at least 128mb. Contact your hosting provider if you need help with this."
+msgstr "Set PHP allocated memory limit to at least 128mb. Contact your hosting provider if you need help with this."
+
+#: includes/camaloon-functions.php:224
+msgid "PHP script time limit"
+msgstr "PHP script time limit"
+
+#: includes/camaloon-functions.php:225
+msgid ""
+"Set PHP script execution time limit to at least 30 seconds. This is required to successfully push products with many variants. "
+"Contact your hosting provider if you need help with this."
+msgstr ""
+"Set PHP script execution time limit to at least 30 seconds. This is required to successfully push products with many variants. "
+"Contact your hosting provider if you need help with this."
+
+#: includes/templates/connect.php:6
+msgid "The WooCommerce plugin is missing, we won’t be able to connect your Camaloon account."
+msgstr "The WooCommerce plugin is missing, we won’t be able to connect your Camaloon account."
+
+#: includes/templates/connect.php:13
+msgid "There are errors with your store setup that may cause the Camaloon integration to not work as intended!"
+msgstr "There are errors with your store setup that may cause the Camaloon integration to not work as intended!"
+
+#: includes/templates/connect.php:14
+msgid "Check status"
+msgstr "Check status"
+
+#: includes/templates/connect.php:22
+msgid "Your Camaloon plugin has been successfully installed!"
+msgstr "Your Camaloon plugin has been successfully installed!"
+
+#: includes/templates/connect.php:26
+msgid "Start selling! Create your first product!"
+msgstr "Start selling! Create your first product!"
+
+#: includes/templates/connect.php:27
+msgid "Go to Camaloon store"
+msgstr "Go to Camaloon store"
+
+#: includes/templates/connect.php:31
+msgid "Something wrong with your store?"
+msgstr "Something wrong with your store?"
+
+#: includes/templates/connect.php:32
+msgid "Check store status"
+msgstr "Check store status"
+
+#: includes/templates/connect.php:35
+msgid "Need help with your WooCommerce setup?"
+msgstr "Need help with your WooCommerce setup?"
+
+#: includes/templates/connect.php:36
+msgid "Review our FAQs"
+msgstr "Review our FAQs"
+
+#: includes/templates/connect.php:42
+msgid "Connect your WooCommerce to Camaloon!"
+msgstr "Connect your WooCommerce to Camaloon!"
+
+#: includes/templates/connect.php:43
+msgid "Connect your store"
+msgstr "Connect your store"
+
+#: includes/templates/faq.php:20
+msgid "Need support? Contact us."
+msgstr "Need support? Contact us."
+
+#: includes/templates/faq.php:50
+msgid "Note: this status report may not include an error log. Contact your hosting provider if you need help with acquiring error logs."
+msgstr ""
+"Note: this status report may not include an error log. Contact your hosting provider if you need help with acquiring error logs."
+
+#: includes/templates/faq.php:54
+msgid "Copy"
+msgstr "Copy"
+
+#: includes/templates/connect.php:34
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: includes/camaloon-functions.php:259
+msgid "WooCommerce version"
+msgstr "WooCommerce version"
+
+#: includes/camaloon-functions.php:260
+msgid "Woocommerce should always be version 5.7.1 or later."
+msgstr "Woocommerce should always be version 5.7.1 or later."

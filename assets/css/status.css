@@ -1,0 +1,30 @@
+.pass {
+    font-weight: bold;
+    color: green;
+}
+.fail {
+    font-weight: bold;
+    color: red;
+}
+.warning {
+    font-weight: bold;
+    color: #cab827;
+}
+
+.faq a {
+    color: rgb(0, 116, 204) !important
+}
+
+.notice-success p::before{
+	display: none;
+}
+
+table td {
+	padding: 1rem 2rem;
+}
+
+@media (max-width: 767px) {
+	table td {
+		padding: 0.5rem 0.5rem;
+	}
+}

@@ -1,0 +1,13 @@
+a:active,
+a:hover, .navibar-menus a:focus, .navibar-menus a:focus:active {
+  background-image: none;
+  outline: 0;
+  box-shadow: none;
+  color: black;
+}
+
+.wp-menu-image img {
+	border: none;
+	padding: 10px 0;
+	margin: auto;
+}
